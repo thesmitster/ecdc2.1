@@ -142,3 +142,13 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 ---
 If the rules are changed so that further play is impossible, or if the legality of a move is impossible to determine with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player who is unable to complete a turn is the winner.
 This rule takes precedence over every other rule determining the winner.
+
+Rules Enacted During Play
+=========================
+
+301
+A rule change contains generalized changes in points when it contains all of the following:
+ 1. point changes within do not solely apply as a result of that rule change itself
+ 2. point changes within do not specify any player by name
+A rule change that contains language relating to the changing of points that does not meet the above criteria will be referred to as a rule change containing a direct change in points, and is impermissible.  This effect takes precedence over all other rules relating to direct changes in points.
+Other than providing the definition for them, this rule does not govern rule changes that contain generalized changes in points.
