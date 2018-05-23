@@ -2,8 +2,8 @@ Score
 =====
 
 Smitster: 3
-AstroTimeLord (aka ATL): 2 
-Sebastian Deka (aka Seabass): 10
+AstroTimeLord (aka ATL): 12 
+Sebastian Deka (aka Seabass): 15
 Z: 0
 Carmex: 0
 Boltar: 0
@@ -34,3 +34,14 @@ Prop 302 was defeated, Nos: Boltar, Z, Carmex
 
 ATL gained 2 points
 -------------------
+
+Prop 303 by Seabass
+-------------------
+*Amend 204*
+If and when rule changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points apiece. If and when rule changes that wouldn't require unanimity to be adopted are defeated, the players who vote for the losing proposal shall receive 10 points apiece.
+
+Prop 303 was adopted successfully, Nos: ATL
+-------------------------------------------
+
+Seabass gained 5 points
+-----------------------
