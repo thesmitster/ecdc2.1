@@ -2,7 +2,7 @@ Score
 =====
 
 Smitster: 3
-AstroTimeLord (aka ATL): 10
+AstroTimeLord (aka ATL): 2 
 Sebastian Deka (aka Seabass): 10
 Z: 0
 Carmex: 0
@@ -24,3 +24,13 @@ Prop 301 was adopted successfully, Nos: ATL, Seabass
 
 Smister gained 3 points
 -----------------------
+
+Prop 302 by ATL
+---------------
+*Repeal 204*
+
+Prop 302 was defeated, Nos: Boltar, Z, Carmex
+---------------------------------------------
+
+ATL gained 2 points
+-------------------
