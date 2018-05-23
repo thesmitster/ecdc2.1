@@ -95,10 +95,6 @@ One turn consists of two parts, in this order:
 ---
 A rule change is adopted if and only if the results of the vote in favor of the rule change is greater than 50% among the eligible voters, unless there is some specific condition which requires an even greater percentage provided by another rule.
 
-204
----
-If and when rule changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points apiece.
-
 205
 ---
 An adopted rule change takes full effect at the moment of the completion of the vote that adopted it.
@@ -147,8 +143,13 @@ Rules Enacted During Play
 =========================
 
 301
+---
 A rule change contains generalized changes in points when it contains all of the following:
  1. point changes within do not solely apply as a result of that rule change itself
  2. point changes within do not specify any player by name
 A rule change that contains language relating to the changing of points that does not meet the above criteria will be referred to as a rule change containing a direct change in points, and is impermissible.  This effect takes precedence over all other rules relating to direct changes in points.
 Other than providing the definition for them, this rule does not govern rule changes that contain generalized changes in points.
+
+303
+---
+If and when rule changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points apiece. If and when rule changes that wouldn't require unanimity to be adopted are defeated, the players who vote for the losing proposal shall receive 10 points apiece.
